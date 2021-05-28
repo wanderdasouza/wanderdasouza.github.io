@@ -1,1 +1,1 @@
-### [Proposta](./Proposta.pdf)
+### [Proposta](https://wanderdasouza.github.io/Proposta.pdf)
